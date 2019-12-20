@@ -1,0 +1,13 @@
+*.tfstate
+*.backup
+*.output.yaml
+kops/kops.rendered.yaml
+gmops
+.idea
+.infra
+.terraform
+*.iml
+.gmops.yaml
+klogOutput.txt
+.DS_Store
+*.log
